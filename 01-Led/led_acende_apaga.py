@@ -1,6 +1,7 @@
-# este programa foi comcebido para acender e apagar um led infinitamente
+# name: led_acende_apaga.py
+#
+# Este programa foi concebido para acender e apagar um led infinitamente
 # acende o led durante 10 seg e apaga seguidamente durante 5 seg
-# 
 
 import RPi.GPIO as GPIO
 import time

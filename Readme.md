@@ -1,1 +1,2 @@
-This repo stores Raspberyy Pi projects
+This project blinks a led.
+
