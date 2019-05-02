@@ -15,7 +15,7 @@ A second version of the code uses 3 leds to create a semaphore.
 
 ![model](circuit_start.png)
 
-![mount](circuit_final.jpg)
+![mount](circuit_final.png)
 
 ## Code
 
