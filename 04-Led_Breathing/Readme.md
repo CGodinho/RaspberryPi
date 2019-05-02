@@ -8,7 +8,7 @@ It simulates an analogic signal by wave modulation.
 ## Material
 
 * LED Bar
-* 10 x Resistor 220 &Omega;
+* Resistor 220 &Omega;
 
 ## Circuit
 
