@@ -22,7 +22,7 @@ A second version of the code uses 3 leds to create a semaphore.
 Code is avialabe in Python.
 
 * ``led_acende_apaga.py``
-* ``led\_semaforo.py``
+* ``led_semaforo.py``
 
 It uses library ``RPi.GPIO``.
 
