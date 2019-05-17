@@ -1,3 +1,7 @@
+# name: led_button.py
+#
+# Este programa acende um led quando um botão é primido. O circutito do botão é independente do circuito do LED.
+
 import RPi.GPIO as GPIO
 
 ledPin    = 11
@@ -15,8 +19,3 @@ while True:
 
 GPIO.output(ledPin, GPIO.LOW)
 GPIO.setup(ledPin, GPIO.LOW)
-
-
-
-
-
