@@ -19,7 +19,7 @@ A second version of the code uses 3 leds to create a semaphore.
 
 ## Code
 
-Code is avialabe in Python.
+Code is available in Python.
 
 * ``led_acende_apaga.py``
 * ``led_semaforo.py``
@@ -28,3 +28,7 @@ It uses library ``RPi.GPIO``.
 
 GPIO board is used in OUTPUT mode, connected to a port.
 Method ``output`` allows to change signal from port.
+
+An example (simple case) is Rust is also available in a project:
+
+* ``simple_led``
