@@ -10,7 +10,7 @@ The PCF8591 allows analogic to digital conversion using 8 bits (255 levles). It 
 
 ![PCF8591 details](PCF8591.png)
 
-
+Data convertion is executed between 3.3V <-> 255 and 0V <-> 0.
 
 ## Material
 
