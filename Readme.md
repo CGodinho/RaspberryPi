@@ -37,4 +37,6 @@ Use [nano](https://www.nano-editor.org) for editing in the terminal.
 
 Complete [cheatsheet](https://www.nano-editor.org/dist/latest/cheatsheet.html).
 
+Configuration file in ```/etc/nanorc```.
+
 Configuration files for [syntax highlight](https://github.com/scopatz/nanorc).
